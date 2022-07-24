@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(../hstu.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.f-coustom {
+  width: 35%;
+}
+.coustom {
+  height: 25%;
+  width: 25%;
+}
